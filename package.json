@@ -2,5 +2,7 @@
   "name": "qrbaghajj-activate",
   "version": "1.0.0",
   "main": "src/main.js",
-  "dependencies": {}
+  "dependencies": {
+    "node-appwrite": "^13.0.0"
+  }
 }
